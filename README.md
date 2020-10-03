@@ -24,4 +24,6 @@ To navigate this webpage, the user will begin by inputing any filtering criteria
 
 One drawback to this new design is that without a specific button the user error might occur with the person using the webpage not knowing how to manuever around the filtering. One recommendation is to incorporate a button that would update the search manually. Another drawback is that the dataset will not include any new sightings. The seconond recommendation I have for that is to incorporate an API search method to pull current monthly data to include with the table.
 
+The picture below would be an example of how to set up the button code:
+
 ![](Resources/button-click.png)
