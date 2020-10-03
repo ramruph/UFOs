@@ -6,7 +6,11 @@ This project was to create a dynamic webpage that will display UFO sightings tha
 
 
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results
+
+![webpage](Resources/webpage.png)
+
+
 To navigate this webpage, the user will begin by inputing any filtering criteria that they want to view from the table of sightings and descriptions about the sightings.
 
 
@@ -19,3 +23,5 @@ To navigate this webpage, the user will begin by inputing any filtering criteria
 ## Summary
 
 One drawback to this new design is that without a specific button the user error might occur with the person using the webpage not knowing how to manuever around the filtering. One recommendation is to incorporate a button that would update the search manually. Another drawback is that the dataset will not include any new sightings. The seconond recommendation I have for that is to incorporate an API search method to pull current monthly data to include with the table.
+
+![](Resources/button-click.png)
